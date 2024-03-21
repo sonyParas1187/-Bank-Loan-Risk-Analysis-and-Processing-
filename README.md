@@ -14,7 +14,9 @@ Risk analysis can also be harnessed to better manage and leverage a bank’s ass
 Risk is at the forefront of the banking industry concerns, and predictive analytics can help banks to take some control of the uncontrollable via forecasting and establishing probabilities, predictive analytics can help with.
 
 1.Credit scoring - predictive analytics can enable better analysis of actual credit risk tomorrow rather than just historically.
+
 2.Fraud detection – early detection can lower the risk of fraud or prevent it altogether, revealing areas of weakness within systems and even individuals.
+
 3.Cross-selling – predictive analytics can tell employees who are likely to open new lines of credit or use other banking services, improving customer engagement and sales conversion rates.
 
 # Definition of Credit Risk
@@ -23,13 +25,19 @@ Credit risk infers the possibility of a loss emerging from a borrower’s downfa
 
 # Uses of Credit Risk
 1.Credit risk analysis is a type of scrutiny to acknowledge the borrower’s ability to pay back.
+
 2.Credit risks infer the ability of the individual to pay back what he owes; lenders usually perform various assessments to mitigate any loss that would arrive in the foreseeable future.
+
 3.Lenders can arrive at a less quantifiable loss probability by properly evaluating such credit risks to curb the chances of loss.
 # Advantages
 1.A good credit risk management scheme improves the capacity to foresee, which helps evaluate the potential risk in every transaction.
+
 2.The banks use the credit risks model to examine the degree of lending which can be financed to prospected or new borrowers.
+
 3.Credit risk management is an alternative to traditional techniques for pricing options.
 # Disadvantages
 1.Risk management can be a very expensive liaison.
+
 2.Although there are some quantitative techniques to evaluate credit risk, such decisions are inaccurate as assessing risk thoroughly is impossible.
+
 3.Generally, lenders apply one rigid model to all mitigation approaches, which is wrong
