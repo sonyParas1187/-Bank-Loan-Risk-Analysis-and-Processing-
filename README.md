@@ -1,7 +1,10 @@
-# Introduction
-Welcome to the Bank Loan Risk Analysis and Processing project! In this project, we aim to improve customer experience and manage risk in the banking sector using data-driven insights. Loan risk analysis is a crucial aspect for banks to ensure responsible lending while minimizing potential losses due to defaults.
-![image](https://github.com/sonyParas1187/Bank-Loan-Risk-Analysis-and-Processing/assets/72930636/96454213-fc52-422e-8352-a39975360ca6)
+# Introduction 
 
+Welcome to the Bank Loan Risk Analysis and Processing project! In this project, we aim to improve customer experience and manage risk in the banking sector using data-driven insights. Loan risk analysis is a crucial aspect for banks to ensure responsible lending while minimizing potential losses due to defaults.
+
+![image](https://github.com/sonyParas1187/Bank-Loan-Risk-Analysis-and-Processing/assets/72930636/88549a67-7be7-4209-b41f-cb44c1b65e0b)
+
+wiki https://github.com/sonyParas1187/Bank-Loan-Risk-Analysis-and-Processing/wiki/Bank-Loan-Risk-Analysis-and-Processing
 # Objective: Analyze loan risk using predictive analytics to assist banks in making informed decisions regarding loan approvals.
 This project focuses on leveraging data analytics to help banks manage loan risk efficiently. It involves several key steps, starting with data acquisition, where a loan dataset is obtained and verified for authenticity and completeness. Data wrangling follows, addressing missing values, duplicates, and data type conversions as needed.
 
@@ -10,6 +13,8 @@ Exploratory Data Analysis (EDA) then provides insights into the dataset's charac
 Model building entails selecting a classification algorithm, training it on the data, and evaluating its performance through cross-validation and hyperparameter tuning. Results interpretation involves understanding model coefficients or feature importance to provide insights for decision-making.
 
 Documentation is crucial to record all steps taken, while a dashboard and reporting summarize key findings, offer recommendations for banks, and present visualizations to support the analysis. Ultimately, this project aims to improve risk assessment processes, enhance customer experiences, and reduce financial risks for banks.
+
+![image](https://github.com/sonyParas1187/Bank-Loan-Risk-Analysis-and-Processing/assets/72930636/b6751357-b2fc-4a36-9cc7-9209182ae394)
 
 # Scope:
 1. Acquire and preprocess a loan dataset.
